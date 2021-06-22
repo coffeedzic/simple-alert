@@ -69,7 +69,7 @@ simpleAlert.success('Your text message goes here...', 5000, 'bounce');
 
 ## License
 
-Shrink PHP is licensed under the [MIT](https://github.com/coffeedzic/simple-alert/blob/main/LICENSE) license.
+Simple Alert is licensed under the [MIT](https://github.com/coffeedzic/simple-alert/blob/main/LICENSE) license.
 
 
 
