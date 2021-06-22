@@ -13,13 +13,13 @@ Simple JavaScript Alerts
 
 #### Include JS & CSS file
 
-```
+``` html
 <link rel="stylesheet" href="simple-alert.min.css">
 <script src="simple-alert.min.js">
 ```
 
 #### Call it easily in your application
 
-```
+``` js
 simpleAlert.success('Your success text goes here');
 ```
