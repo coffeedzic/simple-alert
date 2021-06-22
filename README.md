@@ -81,5 +81,7 @@ Supported is only Font Awesome v5
 
 Simple Alert is licensed under the [MIT](https://github.com/coffeedzic/simple-alert/blob/main/LICENSE) license.
 
+*Inspired by Alertify
+
 
 
