@@ -67,6 +67,12 @@ Default animation is 'swhing-in'
 simpleAlert.success('Your text message goes here...', 5000, 'bounce');
 ```
 
+## Icons
+
+Supported is only Font Awesome v5
+
+*If you dont include Font Awesome, alert will be displayed but without the icon
+
 ## License
 
 Simple Alert is licensed under the [MIT](https://github.com/coffeedzic/simple-alert/blob/main/LICENSE) license.
