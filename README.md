@@ -73,6 +73,10 @@ Supported is only Font Awesome v5
 
 *If you dont include Font Awesome, alert will be displayed but without the icon
 
+## Application which used Simple Alert
+
+[#### Shrink PHP](https://apps.coffeedzic.com/shrink-php)
+
 ## License
 
 Simple Alert is licensed under the [MIT](https://github.com/coffeedzic/simple-alert/blob/main/LICENSE) license.
