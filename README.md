@@ -75,7 +75,7 @@ Supported is only Font Awesome v5
 
 ## Application which used Simple Alert
 
-[#### Shrink PHP](https://apps.coffeedzic.com/shrink-php)
+[Shrink PHP](https://apps.coffeedzic.com/shrink-php)
 
 ## License
 
