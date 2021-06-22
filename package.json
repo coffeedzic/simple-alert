@@ -1,0 +1,33 @@
+{
+    "name": "simple-alert",
+    "description": "Simple JavaScript Alerts",
+    "version": "0.1.0",
+    "keywords": [
+      "alert",
+      "message",
+      "success",
+      "error",
+      "info",
+      "warning"
+    ],
+    "maintainers": [
+      {
+        "name": "Edin Kahvedžić",
+        "email": "edin@coffeedzic.com",
+        "web": "https://coffeedzic.com"
+      }
+    ],
+    "demos": [
+      "https://apps.coffeedzic.com/simple-alert"
+    ],
+    "bugs": {
+      "web": "https://github.com/coffeedzic/simple-alert/issues"
+    },
+    "licenses": [
+      {
+        "name": "MIT",
+        "url": "https://github.com/coffeedzic/simple-alert/blob/main/LICENSE"
+      }
+    ],
+    "homepage": "https://github.com/coffeedzic/simple-alert"
+  }

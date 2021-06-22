@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    --dark: #2e3d4c;    
+    --border: #c7cbce;
+    --input: #9da6ab;
+}
+
+body {
+    background: #fff;
+    background: linear-gradient(90deg,#fff,#eee);
+    color: var(--dark);
+    font-family: "Rubik",sans-serif;
+}
+
+.wrapper {
+    width: 60%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 32px;
+}
+
+header h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+header p {
+    font-size: 14px;
+}
+
+.buttons {
+    margin-top: 64px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 4%;
+    row-gap: 25px;
+}
+
+.buttons button {
+    width: 22%;
+    background: transparent;
+    letter-spacing: 2px;
+    color: var(--input);
+    border: 1px solid var(--border);
+    padding: 11.5px;
+    cursor: pointer;
+}
+
+.buttons button:hover {
+    color: var(--color);
+}
+
+footer {
+    color: var(--box-bg);
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer .nav-link {
+    font-size: 10px;
+    margin-top: 8px;
+    color: var(--box-bg);
+}
+
+footer a {
+    color: var(--box-bg);
+}
+
+footer .icons {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+}
+
+footer .icons a {
+    padding: 8px;
+}
+
+footer p {
+    margin-top: 4px;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+@media only screen and (max-width: 768px) {
+    .wrapper {
+        width: 90%;
+    }
+    
+    .buttons button {
+        width: 48%;
+        font-size: 11px;
+    }
+}
+
+
